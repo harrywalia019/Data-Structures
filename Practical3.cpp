@@ -37,6 +37,7 @@ void binary_search(int arr[], int n, int e)
 			break;
 		}
 		else
+			
 		{
 			 last = middle - 1;
 		}
